@@ -1,6 +1,5 @@
-# 3 Elements Fullsize Yagi Antenna for 40m Band
-Here is presented 2 models of 3 elements fullsize yagi antenna for 40m band.
-The **first model** is optimized for the **boomlength of 16 meters** while keep maintain good **VSWR < 1:1.5**, gain, and F/B ratio. The second model is optimized for **lowest VSWR while keep maintain the boom length below 17 meters** otherwise. All models are simulated for the installation height of about 24 meters using 4nec-2 software package.
+# Rotary WARC Band Dipole Antenna
+Here is presented a NEC2 model of WARC Band (30, 17, 12m) Dipole Antenna. The antenna consists of 3 monoband dipoles closely spaced and fed from a common feed point. This approach is chosen to deliver maximum bandwidth at each band, even though this is not a strictly necessary since the amateur band plan is quite narrow at each band. Simulation is done at heigth of 20m above the ground. The simulation shows that at 17 and 12m, it is very possible to achieve near perfect VSWR (below 1.1:1) and good VSWR (below 1.5:1) at 30m band.
 
 ![](./panoramic.png)
 
