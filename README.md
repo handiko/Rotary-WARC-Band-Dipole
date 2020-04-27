@@ -43,19 +43,18 @@ Each of the element is constructed and simulated as a telescopic alumunium tubin
 ### Typical Gain and F/B
 About 8dBi at all bands.
 
-## Simulation Results (Model 1)
-![](./model1_sim1.png)
-![](./model1_sim2_VSWR.png)
-![](./model1_sim3_patt.png)
+## VSWR Across the Bands
+### 30m Band
+![](./towertop_30_VSWR.png)
 
-## Simulation Results (Model 2)
-![](./model2_sim1.png)
-![](./model2_sim2_VSWR.png)
-![](./model2_sim3_patt.png)
+### 17m Band
+![](./towertop_17_VSWR.png)
 
-## Propagation Map Simulation (VOACAP Online, Oct 2019 at 20 UTC, 80 W of transmit power)
-(both models are virtually the same)
-![](./prop.png)
+### 12m Band
+![](./towertop_12_VSWR.png)
+
+### 30 - 10m Band VSWR Sweep
+![](./towertop_highband_VSWR.png)
 
 ## Contributing
 1. Fork it [https://github.com/handiko/Rotary-WARC-Band-Dipole/fork](https://github.com/handiko/Rotary-WARC-Band-Dipole/fork)
