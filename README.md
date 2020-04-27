@@ -1,5 +1,5 @@
 # Rotary WARC Band Dipole Antenna
-Here is presented a NEC2 model of WARC Band (30, 17, 12m) Dipole Antenna. The antenna consists of 3 monoband dipoles closely spaced and fed from a common feed point. This approach is chosen to deliver maximum bandwidth at each band, even though this is not a strictly necessary since the amateur band plan is quite narrow at each band. Simulation is done at heigth of 20m above the ground. The simulation shows that at 17 and 12m, it is very possible to achieve near perfect VSWR (below 1.1:1) and good VSWR (below 1.5:1) at 30m band.
+Here is presented a NEC2 model of WARC Band (30, 17, 12m) Dipole Antenna. The antenna consists of 3 monoband dipoles closely spaced and fed from a common feed point. This approach is chosen to deliver maximum bandwidth at each band, even though this is not a strictly necessary since the amateur band plan is quite narrow at each band. The simulation is done at height of 20m above the ground. The simulation shows that at 17 and 12m, it is possible to achieve near perfect VSWR (below 1.1:1) and good VSWR (below 1.5:1) at 30m band.
 
 ![](./panoramic.png)
 
