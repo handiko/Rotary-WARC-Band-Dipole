@@ -19,7 +19,7 @@ The picture below will tell thousands words. Please left click / right click + o
 |**tip diameter**        | 1/4 inch tubing   |    |
 
 ### About The Telescopic Element sizing
-Each of the element is constructed and simulated as a telescopic alumunium tubing. Telescopic taper sizing is consideres as **1 inch dia. alu. tubing at the center for 30m element, 3/4 inch dia. alu. tubing at the center for 17 and 12m elements, and 1/4 inch dia. alu. tubing at the tip** Taper schedule from the center to the tip can be adjusted to the alu. tubing dia. which can be purchased locally.
+Each of the element is constructed and simulated as a telescopic alumunium tubing. Telescopic taper sizing is considered as **1 inch dia. alu. tubing at the center for 30m element, 3/4 inch dia. alu. tubing at the center for 17 and 12m elements, and 1/4 inch dia. alu. tubing at the tip** Taper schedule from the center to the tip can be adjusted to the alu. tubing dia. which can be purchased locally.
 **The models are correct only for the taper sizing mentioned above. If you, for example, want to swap the taper sizing with another size, the model still can be constructed and be adjusted to your working freq but will not deliver the performances predicted in the models.**
 
 ### Tuning procedure:
