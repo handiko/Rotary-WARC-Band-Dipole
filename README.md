@@ -5,7 +5,7 @@ Here is presented a NEC2 model of WARC Band (30, 17, 12m) Dipole Antenna. The an
 
 ## Dimensions
 The picture below will tell thousands words. Please left click / right click + open in new tab for the full view of the picture.
-![](./yagi-diagram.png)
+![](./diagram.png)
 
 |**Parameters**          |**Model 1**      |**Model 2**      |
 |:----------------------:|:---------------:|:---------------:|
