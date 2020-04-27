@@ -31,33 +31,33 @@ Each of the element is constructed and simulated as a telescopic alumunium tubin
 ### Typical VSWR:
 (derived from simulation)
 
-|**Parameters**          |**Model 1**|
-|:----------------------:|:---------:|
-|**@7.0 MHz**            | 1:1.4     |
-|**@7.1 MHz**            | 1:1.3     |
-|**@7.2 MHz**            | 1:1.6     |
-|**VSWR Bandwidth 1:1.5**| 190 kHz   |
+|**Parameter**                      |**Value**  |
+|:---------------------------------:|:---------:|
+|**@10.12 MHz**                     | 1.33:1    |
+|**@18.1 MHz**                      | 1.01:1    |
+|**@24.9 MHz**                      | 1.13:1    |
+|**VSWR Bandwidth 1:1.5 @10.12 MHz**| 280 kHz (flat across 30m band)   |
+|**VSWR Bandwidth 1:1.5 @18.1 MHz** | 380 kHz   |
+|**VSWR Bandwidth 1:1.5 @24.9 MHz** | 400 kHz   |
 
 ### Typical Gain and F/B
-* **Model 1**: 13.0 dBi of forward gain & about 14 dB of F/B
-* **Model 2**: 13.2 dBi of forward gain & about 15 dB of F/B 
+About 8dBi at all bands.
 
-## Simulation Results (Model 1)
-![](./model1_sim1.png)
-![](./model1_sim2_VSWR.png)
-![](./model1_sim3_patt.png)
+## VSWR Across the Bands
+### 30m Band
+![](./towertop_30_VSWR.png)
 
-## Simulation Results (Model 2)
-![](./model2_sim1.png)
-![](./model2_sim2_VSWR.png)
-![](./model2_sim3_patt.png)
+### 17m Band
+![](./towertop_17_VSWR.png)
 
-## Propagation Map Simulation (VOACAP Online, Oct 2019 at 20 UTC, 80 W of transmit power)
-(both models are virtually the same)
-![](./prop.png)
+### 12m Band
+![](./towertop_12_VSWR.png)
+
+### 30 - 10m Band VSWR Sweep
+![](./towertop_highband_VSWR.png)
 
 ## Contributing
-1. Fork it [https://github.com/handiko/3E-40M-YAGI/fork](https://github.com/handiko/3E-40M-YAGI/fork)
+1. Fork it [https://github.com/handiko/Rotary-WARC-Band-Dipole/fork](https://github.com/handiko/Rotary-WARC-Band-Dipole/fork)
 2. Create new branch (`git checkout -b myfeature`)
 3. Do some editing / create new feature
 4. Commit your works (`git commit -m "Adding some myfeature blah blah.."`)
