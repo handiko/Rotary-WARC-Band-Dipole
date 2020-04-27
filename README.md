@@ -7,7 +7,7 @@ Here is presented a NEC2 model of WARC Band (30, 17, 12m) Dipole Antenna. The an
 The picture below will tell thousands words. Please left click / right click + open in new tab for the full view of the picture.
 ![](./diagram.png)
 
-|**Parameters**          |**Dimension*       |**Comment**      |
+|**Parameters**          |**Dimension**      |**Comment**      |
 |:----------------------:|:-----------------:|:---------------:|
 |**L30**                 | 7.17 m (adjust)   | half-element 30m band dipole     |
 |**L17**                 | 3.86 m (adjust)   | half-element 17m band dipole     |
