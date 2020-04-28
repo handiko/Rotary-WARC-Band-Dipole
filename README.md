@@ -11,7 +11,7 @@ The picture below will tell thousands words. Please left click / right click + o
 |:----------------------:|:-----------------:|:---------------:|
 |**L30**                 | 7.17 m (adjust)   | half-element 30m band dipole     |
 |**L17**                 | 3.86 m (adjust)   | half-element 17m band dipole     |
-|**L12**                 | 2.85 m (adjust)   | half-element 17m band dipole     |
+|**L12**                 | 2.85 m (adjust)   | half-element 12m band dipole     |
 |**S17**                 | 0.5 m             | 17m element spacing from 30m dipole      |
 |**S12**                 | 0.34 m            | 12m element spacing from 30m dipole      |
 |**Feeding bar**         | 2cm x 2cm alu bar | feedpoint connection bar (optibeam style) **20cm spacing max.**|
